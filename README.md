@@ -10,22 +10,38 @@ At KSU, I’ve transitioned into research and simulation. I developed an **AI-en
 
 ## 🚀 What I'm Working On
 
-- Mastering Data Structures and Algorithms (DSA) – pushing to 250+ LeetCode problems  
-- Building clean full-stack projects using React, ASP.NET Core, and SQL Server  
-- Exploring machine learning applications in real-time systems  
+* **PennyWise V2** — upgrading to AWS Lambda + DynamoDB + Plaid bank sync
+* Mastering Data Structures and Algorithms (DSA)
+* Building full-stack projects using React, Spring Boot, and AWS
+* Exploring AI-assisted development workflows  
 
 ---
 
 ## 🧠 Technical Snapshot
 
-**Languages:** Python, C#, JavaScript, SQL, Java  
-**Frameworks:** ASP.NET Core, React, Node.js  
-**Tools:** Git, Docker, Azure DevOps, Unity, Power BI, Tableau, Jira, ServiceNow  
-**Other:** REST APIs, Agile, ML (pandas, NumPy), Game Dev, CI/CD  
+**Languages:** Python, Java, JavaScript, SQL, Bash
+**Frameworks:** React, Spring Boot, Node.js
+**Cloud/AI:** AWS (S3, Lambda, Glue, Bedrock, DynamoDB),claude code, Groq Vision AI
+**Tools:** Git, Docker, Power BI, Tableau, Jira, ServiceNow
+**Other:** REST APIs, Agile, CI/CD, Prompt Engineering 
 
 ---
 
 ## 📌 Featured Projects
+
+### 🪙 PennyWise — AI Receipt Scanner
+An AI-powered receipt scanner built with React and Groq Vision AI.
+Snap a photo → AI reads every item, scores your shopping 0–100, and
+suggests where to buy the same items cheaper (Costco, Aldi, Walmart).
+Includes a conversational chat interface and spending dashboard.
+
+✔️ React + Groq Vision AI + localStorage + Recharts
+✔️ Prompt engineering for structured JSON extraction
+✔️ Built using AI-assisted development (Claude)
+
+🔗 [View Project →](https://github.com/lahari-badhe/pennywise)
+
+---
 
 ### 🧠 AI-Driven Unity Medical Simulation  
 A research-based Unity project to train users in mass casualty triage decision-making.  
